@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1043421926048",
+    "project_id": "ebuggsproject",
+    "storage_bucket": "ebuggsproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043421926048:android:75909cbb1a06da0034afc5",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6a6zoodh7gLt787qDQSQ4yvi-2rX_AIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
